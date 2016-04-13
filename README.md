@@ -1,0 +1,2 @@
+# SR-Conf
+Shadowrocket Config
