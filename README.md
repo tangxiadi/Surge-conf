@@ -1,2 +1,2 @@
-# SR-Conf
+# Surge-conf
 Shadowrocket Config
